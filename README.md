@@ -17,6 +17,10 @@ This project showcases an IPL (Indian Premier League) analysis dashboard built u
 
 Check out our video demo for a detailed walkthrough of the IPL analysis dashboard:
 
+https://github.com/Kritarth2002/IPL_analysis_2008-2022/assets/98588519/a81f21eb-2df8-439a-a055-0d3e49e7c1e0
+
+ysis Dashboard Demo](demo-thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)
+
 ## Getting Started
 
 1. **Prerequisites**
@@ -36,9 +40,6 @@ Check out our video demo for a detailed walkthrough of the IPL analysis dashboar
 
 
 
-https://github.com/Kritarth2002/IPL_analysis_2008-2022/assets/98588519/a81f21eb-2df8-439a-a055-0d3e49e7c1e0
-
-ysis Dashboard Demo](demo-thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)
 
 ## Contributors
 
