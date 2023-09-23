@@ -4,7 +4,7 @@
 
 This project showcases an IPL (Indian Premier League) analysis dashboard built using Power BI with a PostgreSQL backend. The dashboard offers comprehensive insights into IPL performance trends, player statistics, and team dynamics from 2008 to 2022. The project leverages DAX queries for data analysis and visualization.
 
-![IPL Analysis Dashboard]
+
 
 ![image](https://github.com/Kritarth2002/IPL_analysis_2008-2022/assets/98588519/3e4936c7-1176-426d-90e6-8142e6830c90)
 ## Features
