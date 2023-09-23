@@ -13,6 +13,9 @@ This project showcases an IPL (Indian Premier League) analysis dashboard built u
 - Analyze player statistics, team performance, and historical trends.
 - Utilize DAX queries for advanced data analysis.
 - PostgreSQL backend for efficient data storage.
+## Video Demo
+
+Check out our video demo for a detailed walkthrough of the IPL analysis dashboard:
 
 ## Getting Started
 
@@ -30,9 +33,6 @@ This project showcases an IPL (Indian Premier League) analysis dashboard built u
    - Refresh data in Power BI to load the IPL data.
    - Interact with the dashboard to explore IPL insights.
 
-## Video Demo
-
-Check out our video demo for a detailed walkthrough of the IPL analysis dashboard:
 
 
 
